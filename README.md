@@ -3,9 +3,10 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Dhruv Patel
-- 👀 I’m interested in Back end web development.
-- 🌱 I’m currently learning Spring Boot, Microservices,AWS Cloud.
-- 💞️ I’m looking to collaborate with any organisation hiring software engineers/back-end/front-end developers.
+- 👀 I'm the guy you call when you want to get shit done. 
+- 💪 An ACTUAL fullstack developer. 
+- 🌱 I can crush in React (frontend) and Node (backend). I can deliver in JAVA (backend).
+- 💞️ [https://](https://app.alltestmaker.com/login) That was my startup, go it checkout. If you don't hire me after that, loss is yours. 
 - 📫 You can reach me via dpatel49@asu.edu 
 
 
