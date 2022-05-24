@@ -6,7 +6,7 @@
 - 👀 I'm the guy you call when you want to get shit done. 
 - 💪 An ACTUAL fullstack developer. 
 - 🌱 I can crush in React (frontend) and Node (backend). I can deliver in JAVA (backend).
-- 💞️ [https://](https://app.alltestmaker.com/login) That was my startup, go it checkout. If you don't hire me after that, loss is yours. 
+- 💞️ [https://app.alltestmaker.com/login](https://app.alltestmaker.com/login) That was my startup, go it checkout. If you don't hire me after that, loss is yours. 
 - 📫 You can reach me via dpatel49@asu.edu 
 
 
